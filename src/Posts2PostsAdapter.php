@@ -32,8 +32,8 @@ class Posts2PostsAdapter {
 	){
 
 		$query_args = array(
-			'connected_type' => $connection_type,
 			'connected_items' => $post_id,
+			'connected_type' => $connection_type,
 			'suppress_filters' => false,
 			'post_type' => $post_type,
 			'posts_per_page' => $number
