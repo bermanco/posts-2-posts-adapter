@@ -1,0 +1,16 @@
+{
+    "name": "bermanco/posts-2-posts-adapter",
+    "description": "Class to make working with the WordPress Posts 2 Posts plugin a little easier.",
+    "authors": [
+        {
+            "name": "Chris Herbert",
+            "email": "herbert@bermanco.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "bermanco\\Posts2PostsAdapter\\": "src/"
+        }
+    }
+}
