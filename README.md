@@ -6,7 +6,7 @@ Posts 2 Posts: https://github.com/scribu/wp-posts-to-posts/
 
 ### Example Usage
 
-```
+```php
 use bermanco\Posts2PostsAdapter\Posts2PostsAdapter;
 
 $p2p = Posts2PostsAdapter::create();
